@@ -1,4 +1,4 @@
-
+[![Build Status](https://dexterw.visualstudio.com/DevopsHack/_apis/build/status/TechnicallyWilliams.pipelines-java?branchName=master)](https://dexterw.visualstudio.com/DevopsHack/_build/latest?definitionId=18&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
